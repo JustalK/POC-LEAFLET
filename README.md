@@ -16,6 +16,7 @@ I explain with all the details how I build the project and my way of working.
 ## Pocs
 
 - **Poc1**: Showing the default map with an icon
+- **Poc2**: Playing with shape
 
 ## Development
 
