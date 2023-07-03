@@ -6,7 +6,6 @@ import {
   Rectangle,
   Circle,
 } from "react-leaflet";
-import L from "leaflet";
 
 const multiPolygon = [
   [
